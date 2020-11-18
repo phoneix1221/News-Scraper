@@ -21,4 +21,4 @@ Install all requirements from requirements.txt
 
 Install all requirements and add monogoatlas credientials in routes,models,script3.py files run flask app .For regular interval emails send to user use cron job and run script3.py
 set the cron job time .scripts of websites can be found in scripts folder.
-I have only added 9 or 10 scripts only those websites will work whos scripts are available . Create your own scripts if you want more webistes.
+I have only added 9 or 10 scripts only those websites will work whos scripts are available . Create your own scripts if you want more webistes and add them in script3.py
